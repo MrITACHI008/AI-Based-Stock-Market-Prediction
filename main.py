@@ -1,0 +1,1 @@
+# Main script to run all components together
